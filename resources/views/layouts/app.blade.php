@@ -71,75 +71,8 @@
         }
         .transparent-file {
             padding: 0.375rem 0.75rem;
-        }/* General styles for the table */
-.table-custom {
-  width: 100%;
-  margin: 20px 0;
-  border-collapse: collapse;
-  color: #ffffff;
-  background-color: #333;
-  font-family: Arial, sans-serif;
-}
-
-.table-custom th,
-.table-custom td {
-  padding: 12px 15px;
-  text-align: center;
-}
-
-.table-custom th {
-  background-color: #444;
-  color: #ddd;
-  font-weight: bold;
-}
-
-.table-custom td {
-  border-top: 1px solid #555;
-}
-
-/* Row hover effect */
-.table-custom tbody tr:hover {
-  background-color: #444;
-}
-
-/* Button styles */
-.btn-detail {
-  background-color: #00bcd4;
-  color: #fff;
-  border: none;
-  padding: 5px 10px;
-  border-radius: 5px;
-  text-decoration: none;
-  font-size: 14px;
-}
-
-.btn-edit {
-  background-color: #ffc107;
-  color: #fff;
-  border: none;
-  padding: 5px 10px;
-  border-radius: 5px;
-  text-decoration: none;
-  font-size: 14px;
-}
-
-.btn-delete {
-  background-color: #f44336;
-  color: #fff;
-  border: none;
-  padding: 5px 10px;
-  border-radius: 5px;
-  text-decoration: none;
-  font-size: 14px;
-}
-
-/* Apply spacing between buttons */
-.table-custom td .btn-detail,
-.table-custom td .btn-edit,
-.table-custom td .btn-delete {
-  margin-right: 5px;
-}
-
+        }
+        
         
     </style>
 </head>

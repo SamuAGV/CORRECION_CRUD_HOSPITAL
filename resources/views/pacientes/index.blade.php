@@ -30,7 +30,7 @@
                 <th>Fecha de Nacimiento</th>
                 <th>Sexo</th>
                 <th>Estatus</th>
-                <th>Acciones</th>
+                <th> </th>
             </tr>
         </thead>
         <tbody>
@@ -63,7 +63,7 @@
                 <th>Fecha de Nacimiento</th>
                 <th>Sexo</th>
                 <th>Estatus</th>
-                <th>Acciones</th>
+                <th> </th>
             </tr>
         </thead>
         </tbody>
