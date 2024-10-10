@@ -15,7 +15,10 @@
 @section('content')
 
 <div class="container mt-5">
+    <center>
     <h1>Detalles del Paciente "<strong>{{ $paciente->nombre }} {{ $paciente->apellidop }}</strong>"</h1>
+    <hr>
+    </center>
     <div class="card text-white bg-dark mb-3">
         <div class="card-body">
         <p class="card-text">Nombre: {{ $paciente->nombre }} {{ $paciente->apellidop }}</p>
